@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Mehedi Hasan<br>🎓 BSc in Computer Science and Engineering (CSE) <br> 💻 Software Developer | Problem Solver | Tech Enthusiast<br><br><br><br><br>
+👋 Hello! I'm Mehedi Hasan<br>🎓 BSc in Computer Science and Engineering (CSE) From Rajshahi University Of Engineering & Technology <br> 💻 Software Developer | Problem Solver | Tech Enthusiast<br><br><br><br><br>
 
 
 ## 🌐 Socials:
